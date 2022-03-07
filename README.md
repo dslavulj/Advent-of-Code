@@ -1,4 +1,4 @@
-# Advent of Code 2021
+# Advent of Code
 
-My solutions to the AoC event 2021. <br >
-https://adventofcode.com/2021
+My solutions to the AoC event <br >
+https://adventofcode.com
